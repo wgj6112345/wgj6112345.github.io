@@ -1,2 +1,2 @@
-theme: jekyll-theme-minimal
+theme: "hermit"
 baseURL: "https://wgj6112345.github.io/"
